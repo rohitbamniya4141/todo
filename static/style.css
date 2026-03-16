@@ -1,6 +1,6 @@
 body{
 font-family:Arial;
-background:#f4f4f4;
+background:black;
 }
 
 .container{
@@ -30,7 +30,7 @@ padding:10px;
 
 button{
 padding:10px 15px;
-background:#2ecc71;
+background:#5d2ecc;
 border:none;
 color:white;
 cursor:pointer;
